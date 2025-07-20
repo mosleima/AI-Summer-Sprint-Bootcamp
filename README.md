@@ -32,4 +32,4 @@ Go to your fork on GitHub
 
 Click “Compare & pull request”
 
-Add a description if needed, then click “Create pull request”
+Add a description, then click “Create pull request”
